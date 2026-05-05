@@ -18,7 +18,7 @@
 
 ## 記事一覧
 
-- [ ] wget-vs-curl
+- [x] wget-vs-curl
 - [ ] cli-dash-options
 - [ ] why-bin-folder
 - [ ] trailing-comma
