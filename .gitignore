@@ -1,0 +1,13 @@
+# OS / Editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Build artifacts
+posts/**/snippets/**/build/
+posts/**/snippets/**/*.o
+posts/**/snippets/**/a.out
+
+# Zenn CLI（後で導入する場合）
+node_modules/
